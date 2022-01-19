@@ -1,0 +1,78 @@
+/*CSS By Bob0800*/
+.font-sans {
+	font-family: 'Noto Sans SC', sans-serif;
+}
+
+.container{
+	margin:35px 60px;
+}
+
+.titlebar{
+	background-color:none;
+	width:auto;
+	height:50px;
+	margin:0;
+}
+
+.title{
+	font-size:20px;
+	text-align:center;
+	line-height:50px;
+}
+
+.list{
+	list-style-type:none; 
+	font-size:15px;
+}
+
+.a:link {
+	text-decoration:none;
+	color:#003060;
+}
+
+.a:visited/*已访问过的链接*/ {
+	text-decoration:none;
+	color:#003060;
+}
+
+.a:hover/*鼠标压顶*/ {
+	text-decoration:none;
+	color:#002347;
+}
+
+.a:active/*被点击的瞬间*/ {
+	text-decoration:none;
+	color:#002347;
+	background-color:#EEEEEE;
+}
+
+.time{
+	color:#CCCCCC;
+	font-size:15px;
+	margin:1px 8px;
+}
+
+.badge{
+	color:red;
+	font-size:12px;
+	margin:1px 4px;
+}
+
+.footer{
+	font-size: 10px;
+	text-decoration:none;
+	text-align:center;
+	color:#ABABAB
+}
+
+.article-title{
+    font-size:20px;
+	line-height:20px;
+}
+
+.img{
+	border-radius:5px;
+}
+
+
+
